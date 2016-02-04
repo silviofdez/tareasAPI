@@ -1,0 +1,12 @@
+{
+  "name": "nodeApi",
+  "version": "0.0.1",
+  "description": "Mini Api Rest de tareas",
+  "main": "Server.js",
+  "author": "Silvio Fernandez",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.2"
+  }
+}
